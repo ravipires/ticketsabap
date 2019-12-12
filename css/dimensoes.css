@@ -1,0 +1,12 @@
+html
+{
+	height: 100%;
+}
+#colunasData{
+	margin-bottom: 15px;
+	margin-left: 100px;
+	border-radius: 20px;
+}
+.data{
+	display: none;
+}
